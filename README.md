@@ -7,8 +7,8 @@ Servidor LAMP (Linux, Apache, MySQL, PHP)
 
 ###Pacotes Inclusos:
 
-- PHP 5.6
-- MySQL 5.5
+- PHP 7.1
+- MySQL 5.7
 - Git
 - PhpMyAdmin 
 - Composer
